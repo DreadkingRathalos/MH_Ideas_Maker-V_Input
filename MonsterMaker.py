@@ -10,8 +10,8 @@ if(MonsterType in 'Brute Wyvern'):
 if(MonsterType in 'Snake Wyvern'):
     Monster = ['Narajala']
 if(MonsterType in 'Bird Wyvern'):
-    Monster = ['Velocidrome', 'Gendrome', 'Iodrome', 'Great Maccao', 'Great Izuchi', 'Great Jaggi', 'Great Baggi', 'Great Wroggi', 'Kulu-Ya-Ku', 'Yian-Kut-Ku', 'Gyperios', 'Aknosom', 'Qurupeco', 'Tzitzi-Ya-Ku', 'Pukei-Pukei', 'Malfestio', 'Yian Garuga'
-if(MonsterType in 'Piscine Wyvern')
+    Monster = ['Velocidrome', 'Gendrome', 'Iodrome', 'Great Maccao', 'Great Izuchi', 'Great Jaggi', 'Great Baggi', 'Great Wroggi', 'Kulu-Ya-Ku', 'Yian-Kut-Ku', 'Gyperios', 'Aknosom', 'Qurupeco', 'Tzitzi-Ya-Ku', 'Pukei-Pukei', 'Malfestio', 'Yian Garuga']
+if(MonsterType in 'Piscine Wyvern'):
     Monster = ['Plesioth', 'Beodotus', 'Lavasioth', 'Jyuratodus']
 if(MonsterType in 'Leviathan'):
     Monster = ['Mizutsune', 'Somnacanth', 'Royal Ludroth', 'Lagiacrus', 'Agnaktor', 'Almudron']
@@ -27,7 +27,7 @@ if(MonsterType in 'Temnocerans'):
     Monster = ['Rakna-Kadaki', 'Nerscylla']
 if(MonsterType in 'Other'):
     Monster = ['Gore Magala']
-if(MonsterType in 'Elder Dragon')::
+if(MonsterType in 'Elder Dragon'):
     Monster = ['Chameleos', 'Kushala Daora', 'Teostra', 'Lunastra', 'Kirin', 'Vaal Hazak', 'Namielle', 'Velkhana', 'Nergigante', 'Ibushi', 'Narwa', 'Valstrax', 'Shaguru Magala', 'Malzeno', 'Nakarkos', 'Lao-Shan Lung', 'Zorah Magdaros', 'Dalamadur', 'Xeno`jiiva', 'Safi`jiiva', 'Gogmazios', 'Kulve Taroth', 'Gaismagorm', 'Dire Miralis', 'Alatreon', 'Fatalis']
 Elements = ['Fire', 'Ice', 'Water', 'Thunder', 'Dragon', 'Fire/Ice' , 'Fire/Water', 'Fire/Thunder', 'Fire/', 'Ice/Water' , 'Ice/Thunder' , 'Ice/Dragon', 'Water/Thunder', 'Water/Dragon', 'Thunder/Dragon','None']
 Aliments = ['Poison', 'Paralysis', 'Sleep', 'Blastblight', 'Poison/Paralysis', 'Poison/Sleep', 'Poison/Blastblight', 'Poison/Bleed', 'Paralysis/Sleep', 'Paralysis/Blastblight', 'Paralysis/Bleed', 'Sleep/Blastblight', 'Sleep/Bleed', 'Blastblight/Bleed', 'Stench/Poison', 'Stench/Paralysis', 'Stench/Sleep', 'Stench/Blastblight', 'Stench/Bleed', 'Frenzy', 'Bleed', 'Stench', 'Fire-Blastblight', 'None']
